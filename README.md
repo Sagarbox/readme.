@@ -11,10 +11,10 @@ MySQL Server
 PowerBI
 Microsoft Excel
 Python
+Statistics
+- 🔭 I’m currently working on **Python Projects, SAS Programming Language and Power BI Projects**
 
-- 🔭 I’m currently working on **IMDB Movie Analytics**
-
-- 🌱 I’m currently learning **Python, SQL, PowerBI & Others**
+- 🌱 I’m currently learning **Python & Others**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
