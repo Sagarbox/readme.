@@ -14,7 +14,7 @@ Python
 Statistics
 - 🔭 I’m currently working on **Python Projects, SAS Programming Language and Power BI Projects**
 
-- 🌱 I’m currently learning **Python & Others**
+- 🌱 I’m currently learning **Python (Numpy, Seaborn, Matplotlib and Pandas)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
